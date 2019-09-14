@@ -18,3 +18,7 @@ Run `build` to build the project. The build artifacts will be stored in the `bui
 # build for production with minification
 $ npm run build
 ```
+
+### Deploy
+
+`npm run deploy`

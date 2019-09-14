@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "React Frontend for the Pinyin Annotation App",
   "author": "Jerod Sun",
-  "homepage": "http://jerodsun.github.io/pinyin",
+  "homepage": "http://jerodsun.github.io/pinyin-frontend",
   "copyright": "Copyright 2019 Sun",
   "private": true,
   "repository": {
